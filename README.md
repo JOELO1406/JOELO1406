@@ -51,10 +51,36 @@ Metodologías & Control: Gestión de Proyectos, Control de Versiones (Git/GitHub
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white" alt="Anaconda" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white" alt="numpy" /a>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white" alt="pandas" /a>
-  
+  </p>
+<h2 align="left"> 🗣️Habilidades Blandas: </h2>
+<ul align="left">
+<li>🎯 Critical & Analytical Thinking</li>
+<li>🧩 Strategic Problem-Solving</li>
+<li>🔄 Adaptability to Technological Change</li>  
+<li>📅 Time Management & Prioritization</li>
+<li>🌍 Results-Oriented Mindset</li>
+<li>💡 Data-Driven Innovation & Creativity</li>  
+<li>🧠 Continuous Learning (Lifelong Learning)</li> 
+<li>📦Collaborative Leadership</li>
+
+---
+<h2 align="left"> 🔍Contacto: </h2>
+<ul align="left">
+<li>:derelict_house:Vivo en Mexico</li>
+<a href="https://github.com/JOELO1406" target="_blank">🗂️ Visita mi Portafolio en GitHub</a>
+<li>📩 Puedes contactarme en: <a href="mailto:j.serrato1406@gmail.com">j.serrato1406@gmail.com</a></li>
+<li>:computer:Disponible para Trabajar de Forma remota.</li>
+
+---
+<h2 align="left"> 📊 Estadísticas de GitHub </h2>
+<p align="center">
+  <a href="https://github.com/JOELO1406" target="_blank">
+    <img src="https://vercel.app" width="48%" alt="Estadísticas de Joel" />
+  </a>
+  <a href="https://github.com/JOELO1406" target="_blank">
+    <img src="https://herokuapp.com" width="48%" alt="Racha de GitHub" />
+  </a>
 </p>
-
-
 
 
 
