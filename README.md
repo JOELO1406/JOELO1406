@@ -72,7 +72,7 @@ Metodologías & Control: Gestión de Proyectos, Control de Versiones (Git/GitHub
 <li>:computer:Disponible para Trabajar de Forma remota.</li>
 
 ---
-<h2 align="left"> 📊 Estadísticas de GitHub </h2>
+<h2 align="left"> 📊 Estadísticas de GitHub:</h2>
 <p align="center">
   <a href="https://github.com/JOELO1406" target="_blank">
     <img src="https://vercel.app" width="48%" alt="Estadísticas de Joel" />
