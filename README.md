@@ -24,6 +24,35 @@ Metodologías & Control: Gestión de Proyectos, Control de Versiones (Git/GitHub
 
 ---
 
+<h2 align="left">💻  Principales Proyectos</h2>
+<h2 align="left"> Proyecto TripleTen:</h2>
+<ul align="left">
+1️⃣ Proyecto 1:
+<ul align="left">
+<strong>Título:</strong>
+
+Movilidad urbana y productividad económica en ciudades de LATAM   
+
+<strong>Problema:</strong> 
+
+Identificar cómo la movilidad urbana puede influir en la productividad económica.</strong>
+
+<strong>Qué hice:</strong>
+
+* Crear un dataset único y limpio a partir de dos fuentes diferentes.
+* Aplicar limpieza, estandarización y validación de tipos de datos.
+* Filtrar y enfocar el análisis en el año 2024.
+* Calcular indicadores agregados (por ciudad–año).
+* Realizar análisis exploratorios y visuales.
+* Documentar todos los pasos en Jupyter Notebook, exportar un dataset final y listo para análisis.
+
+
+<strong>Resultado o aprendizaje:</strong>
+
+Tras analizar los datos, no existe una relación lineal clara ni directa entre la congestión vehicular y el PIB per cápita. Riquezas urbanas similares presentan escenarios de tráfico completamente opuestos (ejemplo, Montevideo y Ciudad de México tienen los PIB más altos, pero Montevideo tiene el menor tráfico y Ciudad de México el peor). La congestión parece depender de factores estructurales en vialidad de cada ciudad y no del nivel de ingresos por habitante.
+
+<strong>Visualiza el Repositorio Completo aquí:</strong> <a href="https://github.com/JOELO1406/Proyecto_5" target="_blank">Repositorio Proyecto 5</a>
+
 <h2 align="left">🚀 Experiencia principal en Análisis de Datos</h2>
 <ul align="left">
   <li>🔍 Análisis Exploratorio de Datos (EDA)</li>
