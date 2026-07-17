@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<strong>Acerca de Mí...</strong>
 </p>
 <p align="left">
-Soy Joel Serrato Ingeniero Industrial apasionado del Analisis de Datos, con mas de 18 años experiencia en procesos de manufectura de Consumer Packaging, aprendí que la mejor forma de liderar una operación eficiente es escuchando lo que los datos tienen que decir.
+Soy Joel Serrato Ingeniero Industrial apasionado del Analisis de Datos, con mas de 18 años experiencia en procesos de manufactura de Consumer Packaging, aprendí que la mejor forma de liderar una operación eficiente es escuchando lo que los datos tienen que decir.
 <p align="left">
 He evolucionado mi perfil profesional hacia la analítica de datos, desarrollando un dominio técnico robusto en herramientas como SQL, Python, Power BI y Google Sheets. Mi valor agregado radica en la fusión de dos mundos: la visión estratégica y de negocio de un Ingeniero Industrial, combinada con la capacidad técnica de un Analista de Datos para descubrir patrones, automatizar flujos de trabajo y dar soporte a decisiones críticas de negocio.
 <p align="left">
